@@ -1,4 +1,9 @@
 ### Hi there, I'm Bobby!👋
+- 🌱 I’m currently learning Python.
+- 📫 How to reach me borislav.kuzmanov.bg@gmail.com
+- 📝 Python certificate: https://softuni.bg/certificates/details/160750/fb05b13d
+- ⚡ Fun fact My journey started on January 2023 and looking how things could be iprove.
+
 <!--Stats Card-->
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=bobbykuzmanov&show_icons=true&theme=tokyonight" />
 <!--Language Card-->
@@ -6,8 +11,14 @@
 <!--Language Badge-->
 <img align="left" alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 <img align="left" alt="PyCharm" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" />
-<img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" /)
-     
+<img align="left" alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/borislav-kuzmanov-ba339499/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="borislav.kuzmanov" height="30" width="40" /></a>
+<a href="https://instagram.com/bobbykuzm/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bobbykuzm/" height="30" width="40" /></a>
+</p>
+
 <!--
 **ip681/ip681** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
