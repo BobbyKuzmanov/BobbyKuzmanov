@@ -1,16 +1,16 @@
 ### Hi there, I'm Bobby!👋
-
-<img align="left" width=47% src=https://github-readme-stats.vercel.app/api?username=bobbykuzmanov&show_icons=true&theme=tokyonight />
-
-<img align="left" width=47% src=https://github-readme-stats.vercel.app/api/top-langs/?username=bobbykuzmanov&layout=compact />
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<!--Stats Card-->
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=bobbykuzmanov&show_icons=true&theme=tokyonight" />
+<!--Language Card-->
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bobbykuzmanov&layout=compact" />
+<!--Language Badge-->
+<img align="left" width="10%" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 <!--
 **BobbyKuzmanouzmanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub prof
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+-🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
