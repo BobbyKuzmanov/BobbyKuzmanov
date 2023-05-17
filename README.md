@@ -1,8 +1,12 @@
-### Hi there 👋
+### Hi there, I'm Bobby!👋
 
+<img align="left" width=47% src=https://github-readme-stats.vercel.app/api?username=bobbykuzmanov&show_icons=true&theme=tokyonight />
+
+<img align="left" width=47% src=https://github-readme-stats.vercel.app/api/top-langs/?username=bobbykuzmanov&layout=compact />
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 <!--
-**BobbyKuzmanov/BobbyKuzmanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+**BobbyKuzmanouzmanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub prof
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
