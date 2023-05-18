@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning Python.
 - 📫 How to reach me borislav.kuzmanov.bg@gmail.com
 - 📝 Python certificate: https://softuni.bg/certificates/details/160750/fb05b13d
-- ⚡ Fun fact My journey started on January 2023 and looking how things could be iprove.
+- ⚡ Fun fact My journey started on January 2023.
 
 <!--Stats Card-->
 ### :fire: My Stats :
@@ -17,7 +17,7 @@
 
 
 <!--
-**ip681/ip681** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
