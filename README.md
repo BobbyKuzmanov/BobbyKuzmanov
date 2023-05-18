@@ -5,9 +5,10 @@
 - ⚡ Fun fact My journey started on January 2023 and looking how things could be iprove.
 
 <!--Stats Card-->
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=bobbykuzmanov&show_icons=true&theme=tokyonight" />
-<!--Language Card-->
-<img align="left" width="42%" src=https://github-readme-stats.vercel.app/api/top-langs/?username=bobbykuzmanov&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) />
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bobbykuzmanov&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bobbykuzmanov&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--Language Badge-->
 <img align="left" alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 <img align="left" alt="PyCharm" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" />
