@@ -7,7 +7,7 @@
 <!--Stats Card-->
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=bobbykuzmanov&show_icons=true&theme=tokyonight" />
 <!--Language Card-->
-<img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bobbykuzmanov&layout=compact" />
+<img align="left" width="42%" src=https://github-readme-stats.vercel.app/api/top-langs/?username=bobbykuzmanov&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) />
 <!--Language Badge-->
 <img align="left" alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 <img align="left" alt="PyCharm" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" />
