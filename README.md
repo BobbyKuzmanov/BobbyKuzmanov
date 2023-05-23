@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning Python.
 - 📫 How to reach me borislav.kuzmanov.bg@gmail.com
 - 📝 Python certificate: https://softuni.bg/certificates/details/160750/fb05b13d
-- ⚡ Fun fact My journey started on January 2023.
+- ⚡ Fun fact love to DIY the stuff.
 
 <!--Stats Card-->
 ### :fire: My Stats :
