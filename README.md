@@ -6,8 +6,6 @@
 
 ### Hi there, I'm Bobby!👋
 - 🌱 I’m currently learning Python.
-- 📫 How to reach me borislav.kuzmanov.bg@gmail.com
-- 📝 Python certificate: https://softuni.bg/certificates/details/160750/fb05b13d
 - ⚡ Fun fact love to DIY the stuff.
 
 <!--Stats Card-->
