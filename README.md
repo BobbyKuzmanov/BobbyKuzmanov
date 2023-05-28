@@ -1,36 +1,31 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-</picture>
+<h1 align="center">Hi 👋, I'm Bobby Kuzmanov</h1>
+<h3 align="center">A passionate developer from Bulgaria</h3>
+<img align="center" alt="Coding" width="550" lenght="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
-### Hi there, I'm Bobby!👋
-- 🌱 I’m currently learning Python.
-- ⚡ Fun fact love to DIY the stuff.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bobbykuzmanov&label=Profile%20views&color=0e75b6&style=flat" alt="bobbykuzmanov" /> </p>
 
-<!--Stats Card-->
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bobbykuzmanov&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bobbykuzmanov&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bobbykuzmanov" alt="bobbykuzmanov" /></a> </p>
 
-<!--Language Badge-->
-<img align="left" alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-<img align="left" alt="PyCharm" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" />
-<img align="left" alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<p align="left"> <a href="https://twitter.com/sintikah" target="blank"><img src="https://img.shields.io/twitter/follow/sintikah?logo=twitter&style=for-the-badge" alt="sintikah" /></a> </p>
 
+- 🌱 I’m currently learning **Python.**
 
+- 📫 How to reach me **bobikuz1@abv.bg**
 
-<!--
-** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ⚡ Fun fact **I think i am funny.**
 
-Here are some ideas to get you started:
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/sintikah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sintikah" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/borislav-kuzmanov-ba339499" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="borislav-kuzmanov-ba339499" height="30" width="40" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=bobbykuzmanov&show_icons=true&locale=en&layout=compact" alt="bobbykuzmanov" /></p>
+
+<p>&nbsp;<img align="center" width="350" src="https://github-readme-stats.vercel.app/api?username=bobbykuzmanov&show_icons=true&locale=en" alt="bobbykuzmanov" /></p>
+
+<p><img align="center" width="350" src="https://github-readme-streak-stats.herokuapp.com/?user=bobbykuzmanov&" alt="bobbykuzmanov" /></p>
+
