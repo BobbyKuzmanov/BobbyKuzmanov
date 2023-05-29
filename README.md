@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Bobby </h1>
-<h3 align="center">A passionate developer from Bulgaria</h3>
+<h3 align="center">A enthusiastic Python developer.</h3>
 <img align="right" alt="Coding" width="450" src="https://cdn.dribbble.com/users/2520294/screenshots/7269423/alaminxyz.gif">
 
-- 🌱 I’m currently learning **Python.**
+- 🌱 I’m currently working on my course.
 - 📫 How to reach me **bobikuz1@abv.bg**
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: He/Him
