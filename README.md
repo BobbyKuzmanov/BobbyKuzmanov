@@ -8,10 +8,10 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: **I speak 3 languages(Bulgarian,Greek,English).**
 
+
 <h3 align="left">### Talk with me, I am kinda awesome::</h3>
-<p align="left">
-<a href="https://linkedin.com/in/borislav-kuzmanov-ba339499" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="borislav-kuzmanov-ba339499" height="30" width="40" /></a>
-</p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bobbykuzmanov&label=Profile%20views&color=0e75b6&style=flat" alt="bobbykuzmanov" /> </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="30"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="40"/>
