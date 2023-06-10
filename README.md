@@ -4,9 +4,6 @@
 - 🌱 I’m currently working on my course.
 - 💬 Ask me about ... Anything
 
-
-<h3 align="left">### Talk with me, I am kinda awesome::</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bobbykuzmanov&label=Profile%20views&color=0e75b6&style=flat" alt="bobbykuzmanov" /> </p>
 
 <h3 align="left">Languages and Tools:</h3>
