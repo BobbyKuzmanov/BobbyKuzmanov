@@ -1,6 +1,6 @@
 <h1 align="center">Hi everyone👋, Welcome to Bobby GitHub page!</h1>
 <h3 align="center">A enthusiastic Python developer.</h3>
-<p><img align="right" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=bobbykuzmanov&&show_icons=true&theme=dark" alt="bobbykuzmanov" /></p>
+<p><img align="right" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=bobbykuzmanov&&show_icons=true&theme=tokyonight" alt="bobbykuzmanov" /></p>
 - 🌱 I’m currently working on my course.
 - 💬 Ask me about ... Anything
 
