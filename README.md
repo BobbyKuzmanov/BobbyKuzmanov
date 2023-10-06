@@ -2,7 +2,6 @@
 <p><img align="right" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=bobbykuzmanov&&show_icons=true&theme=tokyonight" alt="bobbykuzmanov" /></p>
 - 🌱 I’m currently working on my course.
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Bobbykuzmanov)](https://github.com/BobbyKuzmanov/github-readme-stats)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bobbykuzmanov&label=Profile%20views&color=0e75b6&style=flat" alt="bobbykuzmanov" /> </p>
 
 <h3 align="left">Languages and Tools:</h3>
