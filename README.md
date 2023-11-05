@@ -1,4 +1,4 @@
-- 🌱 I’m currently working on my**Python** course projects
+- 🌱 I’m currently working on my Python course projects
 
 <p><img align="right" width="500" src="https://streak-stats.demolab.com?user=BobbyKuzmanov&theme=radical&hide_border=true&mode=weekly" alt="bobbykuzmanov" /></p>
 
