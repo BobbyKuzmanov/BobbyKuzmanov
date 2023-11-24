@@ -8,7 +8,7 @@ I've been doodling with backend development for quiet some time now, and absolut
 
 *   🌍  I'm based in Bulgaria
 *   ✉️  You can contact me at [borislav.kuzmanov.bg@gmail.com](mailto:borislav.kuzmanov.bg@gmail.com)
-*   🧠  I'm learning Python
+*   🧠  I'm deep diving into Python
 
 <a href="https://www.github.com/BobbyKuzmanov" target="_blank" rel="noreferrer">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BobbyKuzmanov&label=Profile%20views&color=ce9927&style=flat" alt="BobbyKuzmanov" /> </p>
@@ -41,5 +41,5 @@ I've been doodling with backend development for quiet some time now, and absolut
 </picture>
 </a></p></b><a
 href="http://www.github.com/BobbyKuzmanov"><img
-src="https://github-readme-streak-stats.herokuapp.com/?user=BobbyKuzmanov&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a href="https://github.com/BobbyKuzmanov" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BobbyKuzmanov&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+src="https://github-readme-streak-stats.herokuapp.com/?user=BobbyKuzmanov&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a 
 
