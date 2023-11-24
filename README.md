@@ -13,8 +13,7 @@ I've been doodling with backend development for quiet some time now, and absolut
 <a href="https://www.github.com/BobbyKuzmanov" target="_blank" rel="noreferrer">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BobbyKuzmanov&label=Profile%20views&color=ce9927&style=flat" alt="BobbyKuzmanov" /> </p>
 <p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
-</p>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a 
                     
                   
                   
