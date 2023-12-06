@@ -33,7 +33,6 @@ Python Web Developer
 I've been doodling with backend development for quiet some time now, and absolutely love it. After going through little bit C# and now Python, I decide that is it something want to go long term.
 
 *   🌍  I'm based in Bulgaria
-*   ✉️  You can contact me at [borislav.kuzmanov.bg@gmail.com](mailto:borislav.kuzmanov.bg@gmail.com)
 *   🧠  I'm deep diving into Python
 
 <!-- Your badges
