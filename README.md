@@ -11,6 +11,8 @@ I've been doodling with backend development for quiet some time now, and absolut
 
 ![Profile Views](https://komarev.com/ghpvc/?username=BobbyKuzmanov&label=Profile%20views&color=0e75b6&style=flat)
 
-<a href="http://www.github.com/BobbyKuzmanov" align="right"><img src="https://github-readme-streak-stats.herokuapp.com/?user=BobbyKuzmanov&stroke=a855f7&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=a855f7&currStreakLabel=0891b2&sideNums=a855f7&sideLabels=a855f7&dates=a855f7&hide_border=true" /></a>
 
-<a href="https://github.com/BobbyKuzmanov" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BobbyKuzmanov&langs_count=10&title_color=0891b2&text_color=a855f7&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<a href="https://github.com/BobbyKuzmanov" align="right">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BobbyKuzmanov&langs_count=10&title_color=0891b2&text_color=a855f7&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+</a>
