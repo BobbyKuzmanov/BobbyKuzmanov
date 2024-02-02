@@ -14,5 +14,5 @@ I've been doodling with backend development for quiet some time now, and absolut
 
 
 <a href="https://github.com/BobbyKuzmanov" align="right">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BobbyKuzmanov&langs_count=10&title_color=0891b2&text_color=a855f7&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+<img  height=50% width= 300px src="https://github-readme-stats.vercel.app/api/top-langs/?username=BobbyKuzmanov&langs_count=10&title_color=0891b2&text_color=a855f7&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
 </a>
