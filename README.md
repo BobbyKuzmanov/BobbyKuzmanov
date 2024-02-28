@@ -14,5 +14,3 @@ I've been doodling with backend development for quiet some time now, and absolut
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BobbyKuzmanov&layout=compact&theme=radical)
-
-![Profile Views](https://komarev.com/ghpvc/?username=BobbyKuzmanov&label=Profile%20views&color=0e75b6&style=flat)
