@@ -15,4 +15,4 @@ Happy coding! 🚀
   </a>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BobbyKuzmanov&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BobbyKuzmanov&langs_count=8&layout=compact&theme=tokyonight)
