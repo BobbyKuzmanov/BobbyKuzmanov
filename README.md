@@ -2,7 +2,7 @@ Hi My name is Bobby Kuzmanov!
 
 
 
-I've been doodling with backend development for quiet some time now, and absolutely love it. After going through little bit C# and now with Python, JavaScript, HTML and CSS, I decide that is it something want to go long term.
+I've been doodling with backend development for quiet some time now, and absolutely love it. After going through little bit C# and now with Python, JavaScript, HTML/CSS and PostgreSQL I decide that is it something want to go long term.
 
 Here on GitHub, you'll find a collection of my repositories showcasing my coding prowess, from small utility scripts to larger, more ambitious projects. I believe in the power of open-source collaboration and am committed to sharing my learnings and contributing to the community whenever possible.
 
