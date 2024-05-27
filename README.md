@@ -15,4 +15,5 @@ Happy coding! 🚀
   </a>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BobbyKuzmanov&langs_count=8&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BobbyKuzmanov&langs_count=8&layout=compact&hide_border=true&border_radius=10&card_width=500&card_height=100&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com?user=BobbyKuzmanov&theme=tokyonight&hide_border=true&border_radius=10&card_width=500&card_height=100)](https://git.io/streak-stats)
