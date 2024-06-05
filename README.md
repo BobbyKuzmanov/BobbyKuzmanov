@@ -15,7 +15,6 @@ Happy coding! 🚀
   </a>
 </p>
 
- <img src="https://komarev.com/ghpvc/?username=BobbyKuzmanov&label=Profile%20views&color=0e75b6&style=flat" alt="BobbyKuzmanov" />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BobbyKuzmanov&langs_count=8&layout=compact&hide_border=true&border_radius=10&card_width=350&card_height=150&theme=tokyonight)
 [![GitHub Streak](https://streak-stats.demolab.com?user=BobbyKuzmanov&theme=tokyonight&hide_border=true&border_radius=10&card_width=450&card_height=100)](https://git.io/streak-stats)
