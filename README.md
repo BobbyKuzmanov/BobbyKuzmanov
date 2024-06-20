@@ -16,5 +16,7 @@ Happy coding! 🚀
 </p>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BobbyKuzmanov&langs_count=8&layout=compact&hide_border=true&border_radius=10&card_width=350&card_height=150&theme=tokyonight)
-[![GitHub Streak](https://streak-stats.demolab.com?user=BobbyKuzmanov&theme=tokyonight&hide_border=true&border_radius=10&card_width=450&card_height=100)](https://git.io/streak-stats)
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BobbyKuzmanov&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=BobbyKuzmanov&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
