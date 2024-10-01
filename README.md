@@ -9,7 +9,7 @@ Here on GitHub, you'll find a collection of my repositories showcasing my coding
 Feel free to explore my repositories, contribute to ongoing projects, or reach out for collaboration opportunities. Let's connect and build something awesome together!
 Happy coding! 🚀
 
-![](https://komarev.com/ghpvc/?username=BobbyKuzmanov&color=yellowgreen)
+![](https://komarev.com/ghpvc/?username=BobbyKuzmanov&color=blue)
 
 <p align="left">
   <a href="https://skillicons.dev">
